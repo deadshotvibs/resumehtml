@@ -1,0 +1,68 @@
+<head>
+<title>table</title>
+</head>
+<body>
+<center>
+<img align="right" src="3.JPg" height="100" width="100">
+<img align="left" src="1.png" height="100" width="110">
+
+<br>
+<B><P>VIBHAV MENDIRATTA<BR>1510991724</P>
+
+<hr>
+
+<B>
+<table  cellspacing="1" cellpadding="5" >
+
+<tr>
+<H2><p style="background-color:grey" >Personal Details</p></H2>
+</tr>
+<tr>
+<td><B>LOCATION:</td>
+<td> Rajpura</td>
+
+</tr>
+<tr>
+<td><B>NATIONALITY:</td>
+<td>Indian</td>
+</tr>
+<tr>
+<td><B>DOB:</td>
+<td>17/03/1997</td>
+</tr>
+<tr>
+<td><B>EMAIL:</td>
+<td> vibhavmendiratta97@gmail.com</td>
+</tr>
+<tr>
+<td><B>MOBILE NO:</td>
+<td>9803000051</td>
+</tr>
+</table>
+<table  border="1" cellspacing="0" cellpadding="10" >
+<tr>
+<td><h3> QUALIFICATION</h3></td>
+<td><h3>  BOARD</h3></td>
+<td><h3>PASSING YEAR</h3></td>
+<td><h3>PERCENTAGE</h3></td>
+</tr>
+<tr>
+<td>10th</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>DEGREE</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+</body>
